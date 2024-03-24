@@ -1,5 +1,5 @@
 # NBA Stats
 
-Trying to do some analysis with data scraped from the NBA website.
+Trying to do some analysis with data scraped from the Basketball Reference website.
 
-Data source: [NBA](https://nba.com/stats)
+Data source: [Basketball-reference.com](https://www.basketball-reference.com/leagues/NBA_2016_games.html)
