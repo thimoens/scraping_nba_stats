@@ -226,4 +226,5 @@ pyrightconfig.json
 .ionide
 
 # No data 
-data
+data/
+data/*
